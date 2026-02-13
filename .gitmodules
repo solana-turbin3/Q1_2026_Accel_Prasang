@@ -1,3 +1,6 @@
 [submodule "whitelist-transfer-hook"]
 	path = whitelist-transfer-hook
 	url = https://github.com/Cheapstar/whitelist-transfer-hook.git
+[submodule "escrow-anchor"]
+	path = escrow-anchor
+	url = https://github.com/Cheapstar/escrow-anchor.git
