@@ -4,3 +4,6 @@
 [submodule "escrow-anchor"]
 	path = escrow-anchor
 	url = https://github.com/Cheapstar/escrow-anchor.git
+[submodule "magicblock-er-example"]
+	path = magicblock-er-example
+	url = https://github.com/Cheapstar/magicblock-er-example.git
