@@ -7,3 +7,6 @@
 [submodule "magicblock-er-example"]
 	path = magicblock-er-example
 	url = https://github.com/Cheapstar/magicblock-er-example.git
+[submodule "transfer-hook-vault"]
+	path = transfer-hook-vault
+	url = https://github.com/Cheapstar/transfer-hook-vault.git
