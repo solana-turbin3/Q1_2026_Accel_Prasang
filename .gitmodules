@@ -10,3 +10,6 @@
 [submodule "transfer-hook-vault"]
 	path = transfer-hook-vault
 	url = https://github.com/Cheapstar/transfer-hook-vault.git
+[submodule "tuktuk-program"]
+	path = tuktuk-program
+	url = https://github.com/Cheapstar/tuktuk-program.git
