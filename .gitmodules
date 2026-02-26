@@ -13,3 +13,6 @@
 [submodule "tuktuk-program"]
 	path = tuktuk-program
 	url = https://github.com/Cheapstar/tuktuk-program.git
+[submodule "tuktuk-gpt-oracle"]
+	path = tuktuk-gpt-oracle
+	url = https://github.com/Cheapstar/tuktuk-gpt-oracle.git
