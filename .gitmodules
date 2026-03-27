@@ -16,3 +16,18 @@
 [submodule "tuktuk-gpt-oracle"]
 	path = tuktuk-gpt-oracle
 	url = https://github.com/Cheapstar/tuktuk-gpt-oracle.git
+[submodule "escrow-pinocchio"]
+	path = escrow-pinocchio
+	url = https://github.com/Cheapstar/escrow-pinocchio
+[submodule "generic-storage"]
+	path = generic-storage
+	url = https://github.com/Cheapstar/generic-storage
+[submodule "persistent-todo-queue"]
+	path = persistent-todo-queue
+	url = https://github.com/Cheapstar/persistent-todo-queue
+[submodule "pinocchio-fundraiser"]
+	path = pinocchio-fundraiser
+	url = https://github.com/Cheapstar/pinocchio-fundraiser
+[submodule "nft-staking-core-example"]
+	path = nft-staking-core-example
+	url = https://github.com/Cheapstar/nft-staking-core-example
